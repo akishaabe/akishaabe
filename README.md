@@ -5,11 +5,9 @@
 🎓 Currently studying Information Technology at **Mapúa University**<br/>
 💻 Developer in progress — exploring software development, networking, and app development<br/>
 🚀 Interested in building apps, websites, and systems that solve real problems<br/>
-🎨 Passionate about UI/UX design and creating Figma prototypes<br/>
-🧠 Enjoys learning new technologies and improving development workflows<br/>
 
 ## 🎨 Prototype Archive
-Here’s where I keep my prototypes, mockups, and designs explorations.<br/>
+Here’s where I keep my prototypes, mockups, and design explorations.<br/>
 <br/>
 [Notion Creative Portfolio](https://www.notion.so/Akisha-s-Creative-Archive-2b2f855cf06380b69e9dda1786cdd42c?source=copy_link)<br/>
 <br/>
