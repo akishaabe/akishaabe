@@ -9,7 +9,7 @@
 ## 🎨 Prototype Archive
 Here’s where I keep my prototypes, mockups, and design explorations.<br/>
 <br/>
-[Notion Creative Portfolio](https://www.notion.so/Akisha-s-Creative-Archive-2b2f855cf06380b69e9dda1786cdd42c?source=copy_link)<br/>
+[Notion Creative Portfolio](https://www.notion.so/UI-UX-Prototype-Archives-2b2f855cf063802d8dbedd712ea6ade0?source=copy_link)<br/>
 <br/>
 **🔗 Includes:**
 - Mobile & web app prototypes  
